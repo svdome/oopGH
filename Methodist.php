@@ -1,0 +1,6 @@
+<?
+
+class Methodist implements iMethodist 
+{
+    
+}

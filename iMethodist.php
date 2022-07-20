@@ -1,0 +1,6 @@
+<?
+
+interface iMethodist extends Employee 
+{
+    
+}

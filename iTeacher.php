@@ -1,0 +1,5 @@
+<?
+interface iTeacher extends Employee 
+{
+
+}
